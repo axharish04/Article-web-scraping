@@ -1,0 +1,12 @@
+# requirements.txt
+
+# Specify the Python version
+python_version >= 3.9.7
+
+# Latest versions of the dependencies
+requests==2.31.0
+beautifulsoup4==4.12.2
+certifi==2023.7.22
+numpy==1.25.1
+pandas==2.0.3
+nltk==3.8.1
